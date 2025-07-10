@@ -18,8 +18,6 @@ This container is designed to help you:
 - Use consistent Git and Python tooling inside the container
 - Share a mounted volume with your local `./developer-portal` repository
 
-
-
 ## 🚀 Usage
 
 ### 1. Build the Docker Image
